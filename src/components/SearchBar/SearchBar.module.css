@@ -1,0 +1,15 @@
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px ;
+    margin-bottom: 20px;
+    background-color: #5050c5;
+}
+.field {
+padding: 5px 10px;
+width: 220px;
+}
+.btn {
+margin-left: 10px;
+}
